@@ -1,0 +1,12 @@
+{
+    "name": "search-dimensions-experiment_dimension",
+    "version": "0.0.1",
+    "dependencies": {
+        "search-dimensions-base": "*"
+    },
+    "yahoo": {
+        "mojito": {
+            "type": "invalid-type"
+        }
+    }
+}

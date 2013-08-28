@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "dependencies": {
+        "search-dimensions-base": "*"
+    },
+    "yahoo": {
+        "mojito": {
+            "type": "super-bundle"
+        }
+    }
+}
