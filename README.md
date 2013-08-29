@@ -1,5 +1,13 @@
 # mojito-cli-dimension
 
+Build Status
+------------
+
+[![Build Status](https://travis-ci.org/yahoo/mojito-cli-dimension.png)](https://travis-ci.org/yahoo/mojito-cli-dimension)
+
+Usage
+-----
+
 Provides `dimension` _mojito-cli_ command for creating dimensions `super-bundle` packages.
 
 ## Install
