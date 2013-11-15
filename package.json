@@ -1,7 +1,7 @@
 {
     "name": "mojito-cli-dimension",
     "description": "Provides 'dimension' mojito-cli command for creating dimensions 'super-bundle' packages.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "David Gomez <dgomez@yahoo-inc.com>",
     "contributors": [
         "Jacques Arnoux <arnoux@yahoo-inc.com>",
@@ -10,8 +10,7 @@
     "main": "dimension.js",
     "engines": {
         "node": "> 0.10",
-        "npm": "> 1.2",
-        "mojito": ">=0.7.3"
+        "npm": "> 1.2"
     },
     "dependencies": {
         "mkdirp": "~0.3.5",
