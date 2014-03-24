@@ -1,7 +1,7 @@
 {
     "name": "mojito-cli-dimension",
     "description": "Provides 'dimension' mojito-cli command for creating dimensions 'super-bundle' packages.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "David Gomez <dgomez@yahoo-inc.com>",
     "contributors": [
         "Jacques Arnoux <arnoux@yahoo-inc.com>",
@@ -19,7 +19,7 @@
     "devDependencies": {
       "tap": "~0.4.1",
       "istanbul": "~0.1.42",
-      "mojito-cli": "0.1.x"
+      "mojito-cli": "0.2.x"
     },
     "scripts": {
         "pretest": "[ ! -d \"./artifacts\" ] || rm -r ./artifacts/; mojito jslint app",
